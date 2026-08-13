@@ -40,7 +40,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: "X",
       icon: "fa6-brands:x-twitter",
-      url: "https://x.com/あなたのユーザー名",
+      url: "https://x.com/matcha_VRC_",
     },
   ],
 };
