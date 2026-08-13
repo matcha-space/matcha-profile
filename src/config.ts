@@ -35,12 +35,12 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: "/avatar.svg",
   name: "matcha",
-  bio: "イナゴは人生。\n専業投資家 / VRChat",
+  bio: "イナゴは人生\n専業投資家/VRChat",
   links: [
     {
       name: "X",
       icon: "fa6-brands:x-twitter",
-      url: "https://x.com/matcha_VRC_",
+      url: "https://x.com/あなたのユーザー名",
     },
   ],
 };
