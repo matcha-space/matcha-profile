@@ -33,11 +33,16 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/avatar.svg",
-	name: "matcha",
-	bio: "イナゴは人生。\n専業投資家 / VRChat\n相場とVRChatの世界を行き来しています。",
-	// 実際のURLが決まったら、ここへ追加してください。
-	links: [],
+  avatar: "/avatar.svg",
+  name: "matcha",
+  bio: "イナゴは人生。\n専業投資家 / VRChat",
+  links: [
+    {
+      name: "X",
+      icon: "fa6-brands:x-twitter",
+      url: "https://x.com/matcha_VRC_",
+    },
+  ],
 };
 
 export const licenseConfig: LicenseConfig = {
