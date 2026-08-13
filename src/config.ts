@@ -33,7 +33,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-  avatar: "/avatar.svg",
+  avatar: "/avatar.webp",
   name: "matcha",
   bio: "イナゴは人生\n専業投資家/VRChat",
   links: [
