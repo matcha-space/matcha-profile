@@ -33,16 +33,16 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-  avatar: "/avatar.webp",
-  name: "matcha",
-  bio: "イナゴ/VRChat",
-  links: [
-    {
-      name: "X",
-      icon: "fa6-brands:x-twitter",
-      url: "https://x.com/matcha_VRC_",
-    },
-  ],
+	avatar: "/avatar.webp",
+	name: "matcha",
+	bio: "イナゴ/VRChat",
+	links: [
+		{
+			name: "X",
+			icon: "fa6-brands:x-twitter",
+			url: "https://x.com/matcha_VRC_",
+		},
+	],
 };
 
 export const licenseConfig: LicenseConfig = {
